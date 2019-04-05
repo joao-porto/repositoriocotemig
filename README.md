@@ -10,3 +10,5 @@ de novo
 qualquer coisa
 
 agora sim 
+
+Agora só falta python
